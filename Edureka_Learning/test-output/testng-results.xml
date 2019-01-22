@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SDET University" duration-ms="9006" started-at="2018-12-31T03:54:08Z" finished-at="2018-12-31T03:54:17Z">
+    <groups>
+    </groups>
+    <test name="Home Page Tests" duration-ms="9006" started-at="2018-12-31T03:54:08Z" finished-at="2018-12-31T03:54:17Z">
+      <class name="smoketesting.LoginPresentTestNG">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:smoketesting.LoginPresentTestNG@bc8ab5]" name="setUp" is-config="true" duration-ms="1" started-at="2018-12-31T03:54:13Z" finished-at="2018-12-31T03:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginElement()[pri:0, instance:smoketesting.LoginPresentTestNG@bc8ab5]" name="loginElement" duration-ms="3408" started-at="2018-12-31T03:54:13Z" finished-at="2018-12-31T03:54:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginElement -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:smoketesting.LoginPresentTestNG@bc8ab5]" name="tearDown" is-config="true" duration-ms="239" started-at="2018-12-31T03:54:17Z" finished-at="2018-12-31T03:54:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- smoketesting.LoginPresentTestNG -->
+      <class name="smoketesting.ATagsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:smoketesting.ATagsTest@19651f3]" name="setUp" is-config="true" duration-ms="4868" started-at="2018-12-31T03:54:08Z" finished-at="2018-12-31T03:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginElement()[pri:0, instance:smoketesting.ATagsTest@19651f3]" name="loginElement" duration-ms="174" started-at="2018-12-31T03:54:13Z" finished-at="2018-12-31T03:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginElement -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:smoketesting.ATagsTest@19651f3]" name="tearDown" is-config="true" duration-ms="266" started-at="2018-12-31T03:54:13Z" finished-at="2018-12-31T03:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- smoketesting.ATagsTest -->
+    </test> <!-- Home Page Tests -->
+  </suite> <!-- SDET University -->
+</testng-results>
